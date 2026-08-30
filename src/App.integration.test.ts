@@ -28,6 +28,10 @@ describe('Vraxis homepage', () => {
     for (const product of products) {
       expect(wrapper.findAll(`osx-ecosystem-card[name="${product.name}"]`)).toHaveLength(1)
     }
+
+    expect(wrapper.text()).not.toContain('OSX Components')
+    expect(wrapper.text()).not.toContain('OS X Components')
+    expect(wrapper.findAll('osx-ecosystem-card[provenance="Built with osx Components"]')).toHaveLength(products.length)
   })
 
   it('copies both commands and confirms the action', async () => {

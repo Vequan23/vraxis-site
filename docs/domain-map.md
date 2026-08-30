@@ -9,6 +9,6 @@
 | `distribution.vraxis.dev` | Distribution-OS | Product marketing and install guidance |
 | `archnode.vraxis.dev` | ArchNode | Redirect to `archnode.io` while that remains canonical |
 | `docs.vraxis.dev` | Documentation | Shared installation and package documentation |
-| `components.vraxis.dev` | OS X Components | Component catalog and usage guidance |
+| `components.vraxis.dev` | osx Components | Component catalog and usage guidance |
 
 Each product keeps its own deployment. The apex site links to those owners and does not host local product behavior.

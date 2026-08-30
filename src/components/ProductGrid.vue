@@ -17,6 +17,7 @@ import { products } from '../content/ecosystem'
         :action-label="product.action"
         :mark="product.mark"
         :tone="product.tone"
+        provenance="Built with osx Components"
         external
       />
     </article>

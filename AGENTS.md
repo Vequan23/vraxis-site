@@ -17,4 +17,4 @@ This repository owns the public Vraxis identity, ecosystem positioning, and `vra
 
 ## Required checks
 
-Run `npm run check` and the OS X Components UI audit. Verify the page in a desktop browser and at 390px before shipping.
+Run `npm run check` and the osx Components UI audit. Verify the page in a desktop browser and at 390px before shipping.

@@ -76,7 +76,7 @@ export const foundations: Foundation[] = [
     href: 'https://github.com/Vequan23/agent-v',
   },
   {
-    name: 'OS X Components',
+    name: 'osx Components',
     label: 'Interface system',
     description: 'Give every product the same approachable interaction language without copying product logic.',
     href: 'https://osx-components.vercel.app/',

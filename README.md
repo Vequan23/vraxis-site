@@ -7,7 +7,7 @@ npm install -g @vraxis/cli
 vraxis
 ```
 
-The site explains how Vraxis Read, Aperta, ArchNode, and Distribution-OS fit together. It also documents the packages that keep the products consistent: agent-v, OS X Components, and Vraxis Desktop.
+The site explains how Vraxis Read, Aperta, ArchNode, and Distribution-OS fit together. It also documents the packages that keep the products consistent: agent-v, osx Components, and Vraxis Desktop.
 
 ## Run the site
 
