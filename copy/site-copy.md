@@ -29,6 +29,14 @@ Turn engineering thought into connected RFCs, decisions, diagrams, and durable t
 
 Turn product evidence into reviewed distribution plans, drafts, and measurable work.
 
+## Also from Vraxis
+
+### One private place for family logistics.
+
+Vraxis Home keeps school email, family events, weather, and shared routines in a local dashboard.
+
+Install Vraxis Home.
+
 ## Inspect what the products run on.
 
 The runtime, interface system, desktop packager, and command center are separate packages with clear boundaries.

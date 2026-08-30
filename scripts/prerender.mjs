@@ -7,6 +7,8 @@ const requiredContent = [
   'Your tools. Your agents. Your machine.',
   'Vraxis Read',
   'https://read.vraxis.dev',
+  'Vraxis Home',
+  'https://www.npmjs.com/package/@vraxis/home',
 ]
 
 export function injectPrerenderedHtml(template, appHtml) {

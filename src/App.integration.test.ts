@@ -32,6 +32,10 @@ describe('Vraxis homepage', () => {
       expect(wrapper.findAll(`osx-ecosystem-card[name="${product.name}"]`)).toHaveLength(1)
     }
 
+    const homeLink = wrapper.get('osx-link[href="https://www.npmjs.com/package/@vraxis/home"]')
+    expect(homeLink.text()).toContain('Install Vraxis Home')
+    expect(wrapper.get('#home-title').text()).toBe('One private place for family logistics.')
+
     expect(wrapper.text()).not.toContain('OSX Components')
     expect(wrapper.text()).not.toContain('OS X Components')
     expect(wrapper.findAll('osx-ecosystem-card[provenance="Built with osx Components"]')).toHaveLength(products.length)

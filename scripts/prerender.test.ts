@@ -6,6 +6,7 @@ describe('static prerendering', () => {
     '<main>',
     '<h1>Your tools. Your agents. Your machine.</h1>',
     '<a href="https://read.vraxis.dev">Vraxis Read</a>',
+    '<a href="https://www.npmjs.com/package/@vraxis/home">Vraxis Home</a>',
     '</main>',
   ].join('')
 

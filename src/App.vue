@@ -46,6 +46,27 @@ import { principles } from './content/ecosystem'
         <ProductGrid />
       </section>
 
+      <section class="section-shell home-callout" aria-labelledby="home-title">
+        <div class="home-mark" aria-hidden="true">
+          <osx-icon name="home" :size="28" />
+        </div>
+        <div class="home-copy">
+          <span class="eyebrow">Also from Vraxis</span>
+          <h2 id="home-title">One private place for family logistics.</h2>
+          <p>Vraxis Home keeps school email, family events, weather, and shared routines in a local dashboard.</p>
+        </div>
+        <osx-link
+          class="primary-link"
+          href="https://www.npmjs.com/package/@vraxis/home"
+          target="_blank"
+          rel="noreferrer"
+          underline="none"
+          external
+        >
+          Install Vraxis Home
+        </osx-link>
+      </section>
+
       <section id="foundations" class="section-shell section-block foundation-section" aria-labelledby="foundations-title">
         <div class="section-heading">
           <span class="eyebrow">Built in public</span>
