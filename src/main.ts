@@ -1,4 +1,4 @@
-import { createApp } from 'vue'
+import { createSSRApp } from 'vue'
 import { registerOsxComponents } from '@vraxis/osx-components'
 import '@vraxis/osx-components/theme.css'
 import App from './App.vue'
@@ -7,4 +7,4 @@ import './styles/site.css'
 
 registerOsxComponents()
 
-createApp(App).mount('#app')
+createSSRApp(App).mount('#app')
