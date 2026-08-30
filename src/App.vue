@@ -17,8 +17,8 @@ import { principles } from './content/ecosystem'
           <osx-badge tone="success" dot label="Local-first agent ecosystem" />
           <h1 id="hero-title">Your tools. Your agents. Your machine.</h1>
           <p>
-            Vraxis is a family of local-first tools for reading, understanding, writing, and distributing technical work.
-            One CLI installs and opens the system.
+            Vraxis is a set of local-first tools for building software with agents. Read source material, understand code,
+            write clearly, and distribute what you build. One CLI opens every tool.
           </p>
           <div class="hero-actions">
             <osx-link class="primary-link" href="#install" underline="none">Install the CLI</osx-link>

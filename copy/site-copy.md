@@ -1,6 +1,6 @@
 # Your tools. Your agents. Your machine.
 
-Vraxis is a family of local-first tools for reading, understanding, writing, and distributing technical work. One CLI installs and opens the system.
+Vraxis is a set of local-first tools for building software with agents. Read source material, understand code, write clearly, and distribute what you build. One CLI opens every tool.
 
 ## Install the Vraxis command center
 

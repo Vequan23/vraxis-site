@@ -22,6 +22,9 @@ describe('Vraxis homepage', () => {
     const wrapper = mount(App)
 
     expect(wrapper.get('h1').text()).toBe('Your tools. Your agents. Your machine.')
+    expect(wrapper.get('.hero-copy p').text()).toBe(
+      'Vraxis is a set of local-first tools for building software with agents. Read source material, understand code, write clearly, and distribute what you build. One CLI opens every tool.',
+    )
     expect(wrapper.text()).toContain(installCommand)
     expect(wrapper.text()).toContain(runCommand)
 
