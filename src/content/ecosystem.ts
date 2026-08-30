@@ -79,7 +79,7 @@ export const foundations: Foundation[] = [
     name: 'osx Components',
     label: 'Interface system',
     description: 'Give every product the same approachable interaction language without copying product logic.',
-    href: 'https://osx-components.vercel.app/',
+    href: 'https://components.vraxis.dev',
   },
   {
     name: 'Vraxis Desktop',
