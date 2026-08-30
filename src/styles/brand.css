@@ -1,0 +1,14 @@
+:root {
+  color-scheme: dark;
+  --vraxis-midnight: #08111b;
+  --vraxis-graphite: #111820;
+  --vraxis-panel: #18232d;
+  --vraxis-navy: #0b2547;
+  --vraxis-blue: #1687f8;
+  --vraxis-cyan: #42d9f0;
+  --vraxis-green: #1ad592;
+  --vraxis-cloud: #e8f0f5;
+  --vraxis-muted: #9badb9;
+  --vraxis-border: rgba(140, 180, 202, 0.24);
+  --vraxis-glow: rgba(66, 217, 240, 0.14);
+}

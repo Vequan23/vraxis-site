@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 950 220" role="img" aria-labelledby="title description">
+  <title id="title">Vraxis</title>
+  <desc id="description">Vraxis logo and wordmark.</desc>
+  <g transform="translate(8 -8) scale(.46)">
+    <path d="M68 94H156L256 282L356 94H444L300 432H212L68 94Z" fill="#0B2547"/>
+    <path d="M228 78L256 48L284 78V432L256 464L228 432V78Z" fill="#1687F8"/>
+    <path d="M90 122H148L242 290C255 313 264 337 265 362L266 406C252 386 238 368 220 354C199 338 183 320 170 296L90 122Z" fill="#42D9F0"/>
+    <path d="M422 122H364L270 290C257 313 248 337 247 362L246 406C260 386 274 368 292 354C313 338 329 320 342 296L422 122Z" fill="#1AD592"/>
+  </g>
+  <text x="258" y="151" fill="#E8F0F5" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="112" font-weight="720" letter-spacing="-4">Vraxis</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title description">
+  <title id="title">Vraxis</title>
+  <desc id="description">Monochrome Vraxis mark.</desc>
+  <path d="M68 94H156L228 230V78L256 48L284 78V230L356 94H444L300 432H284V432L256 464L228 432H212L68 94ZM124 126L238 394L256 416L274 394L388 126H374L292 276C277 303 266 328 256 353C246 328 235 303 220 276L138 126H124Z" fill="currentColor" fill-rule="evenodd"/>
+</svg>
